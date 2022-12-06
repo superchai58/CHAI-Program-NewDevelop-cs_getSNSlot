@@ -1,0 +1,6 @@
+D:\Project\QMB\cs_getSNSlot\cs_getSNSlot\bin\Debug\cs_getSNSlot.exe.config
+D:\Project\QMB\cs_getSNSlot\cs_getSNSlot\bin\Debug\cs_getSNSlot.exe
+D:\Project\QMB\cs_getSNSlot\cs_getSNSlot\bin\Debug\cs_getSNSlot.pdb
+D:\Project\QMB\cs_getSNSlot\cs_getSNSlot\obj\Debug\cs_getSNSlot.csprojResolveAssemblyReference.cache
+D:\Project\QMB\cs_getSNSlot\cs_getSNSlot\obj\Debug\cs_getSNSlot.exe
+D:\Project\QMB\cs_getSNSlot\cs_getSNSlot\obj\Debug\cs_getSNSlot.pdb
